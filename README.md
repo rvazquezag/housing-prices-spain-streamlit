@@ -10,11 +10,14 @@ This project aims to explore and visualize housing price trends across Spain usi
 
 ## 📁 Project Structure
 
+```
 data/
-raw/ # Original datasets
-cleaned/ # Cleaned and transformed datasets
-notebooks/ # Exploratory data analysis and experiments
-src/ # Python scripts and utility functions
-app/ # Streamlit web app code
+  raw/          # Original datasets
+  cleaned/      # Cleaned and transformed datasets
+notebooks/      # Exploratory data analysis and experiments
+src/            # Python scripts and utility functions
+app/            # Streamlit web app code
 outputs/
-figures/ # Exported plots, maps, and visualizations
+  figures/      # Exported plots, maps, and visualizations
+```
+
